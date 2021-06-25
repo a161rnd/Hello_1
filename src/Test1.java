@@ -2,7 +2,7 @@ public class Test1 {
     public static void main(String[] args) {
         System.out.println("dgdfg");
         int b = 55;
-        int a = 2;
+        int a = 5;
         switch (a) {
             case 1:
                 System.out.println("1");
